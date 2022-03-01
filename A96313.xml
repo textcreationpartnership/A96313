@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of all the proceedings in Ireland, from the end of April last, to this present: sent from Tristram Whetcombe, mayor of Kinsale, to his brother Benjamine Whetcombe, merchant in London. With a certificate under the hand and seal of Sir William Saint-Leger, lord president of Munster. As also the copy of an oath which was found in a trunck in Kilbrittaine Castle neer Kinsale, after the rebels were fled from thence, the first of June, 1642. Presented to the high Court of Parliament, and by them ordered forthwith to be printed. Hen. Elsynge, Cler. Parl. D. Com.</title>
+            <author>Whetcombe, Tristram.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96313</idno>
+            <idno type="STC">Wing W1640</idno>
+            <idno type="STC">Thomason E151_9</idno>
+            <idno type="STC">ESTC R15225</idno>
+            <idno type="EEBO-CITATION">99859825</idno>
+            <idno type="PROQUEST">99859825</idno>
+            <idno type="VID">156768</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96313)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156768)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E151[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of all the proceedings in Ireland, from the end of April last, to this present: sent from Tristram Whetcombe, mayor of Kinsale, to his brother Benjamine Whetcombe, merchant in London. With a certificate under the hand and seal of Sir William Saint-Leger, lord president of Munster. As also the copy of an oath which was found in a trunck in Kilbrittaine Castle neer Kinsale, after the rebels were fled from thence, the first of June, 1642. Presented to the high Court of Parliament, and by them ordered forthwith to be printed. Hen. Elsynge, Cler. Parl. D. Com.</title>
+                  <author>Whetcombe, Tristram.</author>
+                  <author>Saintliger, W., Sir (William), d.1642.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ioseph Hunscott,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156768:1" rendition="simple:additions"/>
+            <p>A True RELATION OF ALL THE PROCEEDINGS IN IRELAND FROM The end of <hi>April</hi> laſt, to this preſent: SENT From <hi>Triſtram Whetcombe,</hi> Mayor of <hi>Kinſale,</hi> to his Brother <hi>Benjamine Whetcombe,</hi> Merchant in Low LONDON. With A Certificate under the Hand and Seal of Sir <hi>William Saint-Leger,</hi> Lord Preſident of MUNSTER. As alſo The Copy of an Oath which was found in a Trunck in <hi>Kilbrittaine</hi> Caſtle neer <hi>Kinſale,</hi> after the Rebels were fled from thence, the firſt of <hi>June,</hi> 1642.</p>
+            <p>Preſented to the high Court of Parliament, and by them Ordered forthwith to be Printed. <hi>Hen. Elfinge, Cler. Parl. D. Com.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Ioſeph Hunſcott.</hi> 164<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="oath">
+            <pb n="2" facs="tcp:156768:2"/>
+            <head>This Oath was found in a Trunck in <hi>Kilbrittaine</hi> Caſtle, neer <hi>Kinſale,</hi> after the Rebells were fled from thence; <hi>Iune</hi> 1. 1642.</head>
+            <p>I A.B.C. D, &amp;c. With firm faith, believe and profeſſe, all and ſin<g ref="char:EOLhyphen"/>gular the Articles and Points, which the holy Catholike and Apoſto<g ref="char:EOLhyphen"/>licall Roman Church believeth and profeſſeth, and to my dying day will by Gods grace defend the ſame Faith againſt all Sectaries, Sects, Atheiſts and Enemies thereof, whatſoever, even with the loſſe of my Life, Eſtate, and Goods.</p>
+            <p>I vow alſo, and in my conſcience ſincerely believe, and acknowledge King CHARLES to be my Soveraign Lord, and King of <hi>England, Scotland, Ire<g ref="char:EOLhyphen"/>land:</hi> and <hi>France;</hi> whoſe Priviledges, Prerogatives, and Attributes Royall, due to His Imperiall Crown, and Royall Dignity, I promiſe and vow to God to maintain and defend by Gods grace, againſt all evill-affected perſons, be they of what Countrey ſoever, or Sect; even with the loſſe of my Life, Goods, and Eſtate.</p>
+            <p>I promiſe and vow likewiſe to be true to my poor oppreſſed Countrey, and Kingdom of <hi>Ireland,</hi> with the loſſe of my Life, Goods, and Eſtate, and endeavour to free it from the bondage and tyrannous Government, and op<g ref="char:EOLhyphen"/>preſſions under which it groneth by the means of evill Officers, and Miniſters of Iuſtice, contrary to His Majeſties gracious intentions.</p>
+            <p>I do promiſe and vow to God to wrong no Catholique, nor challenge any Eſtate of Lands of his, ſo he be poſſeſſed therewith before the laſt Plan<g ref="char:EOLhyphen"/>tations. beginning in the yeer 1610. nor any Lands poſſeſſed by any of them ſince then, which he or they bought or purchaſed for their Moneyes or o<g ref="char:EOLhyphen"/>therwiſe.</p>
+            <p>And further I do promiſe and vow to make no difference, or diſparaty between them of the meer Engliſh, and them of the Pale; between the old Iriſh, and new Iriſh, be they of what Standing, Calling, or Quality whstſo<g ref="char:EOLhyphen"/>ever, ſo they be Profeſſors of the holy Catholike Church, and maintainers of their Countries Liberties. All theſe, and every of theſe preſent Articles, I the ſaid A. B, &amp;c. Do promiſe, vow, and ſwear to maintain and defend in<g ref="char:EOLhyphen"/>violably, by Gods grace: So God be my help, and the Contents of his ho<g ref="char:EOLhyphen"/>ly Goſpels. Amen.</p>
+         </div>
+         <div type="letter">
+            <pb n="3" facs="tcp:156768:2"/>
+            <head>From <hi>Kingſale</hi> the 30 of <hi>May,</hi> and 1 <hi>Iune.</hi> 1642.</head>
+            <opener>
+               <salute>Brother <hi>Benjamin Whetcombe,</hi>
+               </salute>
+            </opener>
+            <p>MY laſt unto you, was of 22. <hi>April</hi> by Maſter <hi>Iohn Brooks,</hi> who I hope in few dayes after his de<g ref="char:EOLhyphen"/>parture from hence, was with you, and that he hath procured imployment for our Ship <hi>Charles,</hi> and ſome recompence for the great charge we have been at; lying for the defence of the Harbour, To that time I then gave you a full Relation of the Paſſages of theſe parts.</p>
+            <p>The next being the 23. <hi>Ditto</hi> going abroad to meet Captain <hi>Aderly,</hi> that commandeth our Town Troop of horſe; for the examination of thirteen Rebels that were brought in a day or two before, ſome of the Kings Ship<g ref="char:EOLhyphen"/>men came into the Room where I was, and moſt uncivilly abuſed themſelves and me; threatning to fire the Town, unleſſe thoſe Rebels were preſently hanged, or delivered over unto them, one of theſe I cauſed to be diſarmed and committed, untill upon his extraordinary ſubmiſſion, I was moved to releaſe him; the particulars at that time, and the ſequell of that day, I referie you to a Copy of a Letter written to my Lord Preſident, which I ſend inclo<g ref="char:EOLhyphen"/>fed, and to it can only adde this, that four of theſe men had laine a ſhoare, five or ſixe dayes before, and never aboard, but pillaging, and keeping diſorders by night, and we durſt not to puniſh them as they deſerved; But preſently it was caſt forth 160. of them ſhould come ſhoar at a call, and burn our Town; and indeed ſome com<g ref="char:EOLhyphen"/>plaint was made to the Admirall of their inſolencies, and
+<pb n="4" facs="tcp:156768:3"/>whether they were puniſhed or rebuked for the ſame in private we know not, but the appearance to us was, that he gave more credit to his Seamen, then to thoſe that complained of them? But no more of this, I wiſh the thirty ſail of Ships were come, and the Earl of <hi>Warwick,</hi> or ſome other Nobleman Commander of them, it muſt needs be much better, then when men of lower degree do govern. My Lord Preſident was much troubled at the murther of the ſaid <hi>Mellifont,</hi> and half our time ſince hath been in examination of witneſſes, for the Seamen cleer themſelves, and lay it upon the Townſmen, and the Admi<g ref="char:EOLhyphen"/>rall adviſeth the Lord Preſident, that there were but four of his men in the Act when there were neer fourſcore. If the man had been a Rebell, and not protected by the Lord Preſident; yet the affront taking the man by vio<g ref="char:EOLhyphen"/>lence from me, was equall with the murthering of him, only the latter did aggravate the former. We went a<g ref="char:EOLhyphen"/>broad daily, and did little good, only brought in proviſi<g ref="char:EOLhyphen"/>ons; the diviſion whereof, did often breed difference a<g ref="char:EOLhyphen"/>mong the pillagers, until the ſecond preſent. We beſieged a very ſtrong Caſtle, ſtanding upon the River of <hi>Bandon,</hi> called <hi>Carganas,</hi> carryed a Piece of Ordnance by Boat, and the people of <hi>Bandon</hi> brought a ſmall Iron Piece from the Town; with both we continued about thirty houres without doing any great hurt, for it was a very ſtrong built and well contrived Caſtle for defence, as moſt in the Province. Our forces were about thirty Seamen, with the Piece of Ordnance in the Boat, about 300. Horſe and Foot from <hi>Randon,</hi> and about 150. Horſe and Foot from this Town, in all, could not make 500. fighting men, who ſeeing the Ordnance did no good, and that the ſer<g ref="char:EOLhyphen"/>vice waſted ſo much Powder, which we could not well
+<pb n="5" facs="tcp:156768:3"/>ſpare, our men fell deſperately upon the buſineſſe, made way thorow the Walls of the Bane to come to the Gate and Iron Grate, in ſhort time unhung the Grate, fired the Gate, and entred the Caſtle under an Arch, the Rebels were gotten over the Arch, and being impoſſible for our people to go up to them; we proffered them quarter, which they moſt reſolutely refuſed: So we had no other means but to gather what ſtraw and fewell we could, and made ſuch a fire under the Arch, as it grew in few houres to hot for them, that ſome of them made thorow the Rouſe in hope to eſcape, but they killed them all as they came down, only two were kept a day or two, to try whether they would diſcover any thing worthy of their lives; the fire continued all night, and the next day, till at laſt were brought forth ſuch a pack of roſted Rogues, as never were in mans life time ſeen; and at laſt, as many as were not roſted enough, were hanged; we did at the ſame time with the number of men aforeſaid, environ the Caſtle of <hi>Polelong,</hi> lying on this other ſide of the River, and not two Musket ſhot diſtance from <hi>Carganas?</hi> they were very reſolute for a long time, and refuſed both quar<g ref="char:EOLhyphen"/>ter and ſpeech with us, untill they ſaw what ſucceſſe we had upon their neighbours, they ſent to entreat a parley, and yeilded upon quarter, to go away with their lives, and their cloaths upon their backs, but without any Arms. Theſe two Caſtles were taken in three dayes, and found in them aboundance of good proviſions, chiefly Wheat, Malt, and Oat-Meal, and in <hi>Carganas</hi> Caſtle aboundance was burned; It is thought there was ſuſticient to victuall five or ſixe thouſand men, for many moneths together, and it lay for their purpoſe very commodiouſly, if they had beſieged this Town-Fort <hi>Cork</hi> and <hi>Bandon,</hi> there
+<pb n="6" facs="tcp:156768:4"/>was a third Caſtle upon the River poſſeſſed by them, who hearing of their Neighbours fear, did very valiantly run away by night, and carryed away with them what they could; ſo the Caſtle of <hi>Kilgobane</hi> was left voyd; and in our Retreat we took away what was left, and fired the Caſtle; ſo that now the River is clear, and two men can now paſſe better then 100 could before; and in all this we loſt but three men; many mens clothes ſhot, and no hurt in their bodies; others (but very few) were hurt, and ſince well recovered. The 16 <hi>Ditto, Bandon</hi> men marched forth to<g ref="char:EOLhyphen"/>wards <hi>Cork,</hi> 2 Companies, and about 40 horſe, &amp; ſet upon an Iſland; they call it an Iſland, becauſe it is environed with ſuch a Bog, as the Kingdom hath not another like it; they held it the ſtrongeſt Hold they had in all their poſſeſſions: it hath but one way to go into it; upon which paſſage they had caſt up Forts and Sconces, in ſuch maner, that 20 men might have kept out 1000: Our people, com<g ref="char:EOLhyphen"/>ing to the place, ſet the Horſe round the Bog, fearing any of them ſhould eſcape: The Foot made no ſtand, but en<g ref="char:EOLhyphen"/>tered reſolutely, put them from their works, and they all ran preſently into the Bogs, where it was impoſſible for our Nation to follow them; they killed many men, amongſt which, was one Captain <hi>mac Swinn,</hi> who was ta<g ref="char:EOLhyphen"/>ken and killed by a boy of 14 yeers of age, that had but a little Staff, in manner of a half Pike, brought away the Captains Sword, Musket, and Head: they brought away about 16 Muskets more, the reſt were drowned in the Bog, and abundance of the Rebels drowned with them: They fired all the Cabbins upon the Iſland, which were neer 200, and brought away what Cattell they found, which were not many; for upon ſome apprehenſion of fear, or advice of their coming, they had driven away
+<pb n="7" facs="tcp:156768:4"/>moſt part of the Cattle three dayes before, into <hi>Muskrie,</hi>
+            </p>
+            <p>The 18, The Lord <hi>Inſiquin,</hi> and Captain <hi>Iepſonns</hi> Forces took a Caſtle in <hi>Condons</hi> Countrey, not far from <hi>Donneraile,</hi> where they found great ſtore of Proviſions, and that night, or the next day, provided carriage to remove it from thence, having about 200 Horſe and Foot to convey theſe Carriages, <hi>Condon,</hi> and my Lord <hi>Roch</hi> his Forces in number 700. at leaſt lay in ambuſh with much confidence they ſhould have a day of it; but ſo it pleaſed the Almighty, that it proved diſmall and ſhamefull to them, at leaſt 150. of them kill'd upon the place; and the reſt running away, were purſued to the very Gates of <hi>Roch</hi> his Caſtle, where our people burnt all the Cabbins round about it, in de<g ref="char:EOLhyphen"/>ſpight of all they could do from the Caſtle, and came back to their Carriages, lodged all things where they de<g ref="char:EOLhyphen"/>ſired, and not paſſing a man or two hurt, none kill'd: Such was the work of our great God.</p>
+            <p>The 19, here landed Lievtenant <hi>Brokett,</hi> with 480 ſoul<g ref="char:EOLhyphen"/>diers, part of Sir <hi>Iohn Pawlets</hi> Regiment, and hath brought with him Commiſſion to be Governour of this Town and Fort; which is here confirmed unto him by the Lord Pre<g ref="char:EOLhyphen"/>ſident, and yeelded up by the Admirall, yet no other Souldiers placed in the Fort then what were formerly; and thoſe Captain <hi>Thomas Kettleby</hi> the younger doth command as formerly, but by order from Governour <hi>Brokett:</hi> The ſaid Governour is a diſcreet Gentleman, and deſerving his Command: He doth honour me, in making of my poor Cottage to be his abode.</p>
+            <p>The 25, We marched forth about 300 men, to beſiege <hi>Mountlong</hi> Caſtle; and coming thither, we found nothing to do; the people were all run away before we came, and had carryed away the beſt of their Proviſions with them,
+<pb n="8" facs="tcp:156768:5"/>onely a few empty Cheſts, Stools, Bed-ſteeds, Hutches, and the like were left: It was made a very defenſive place; had their cauſe been good, and they hearts to maintain it, might have wearied us, but it is Gods Work: It is a very ſtately Building, the like cannot be built for 2000<hi rend="sup">l</hi>; which would be a commodity for him that ſhould enjoy the Land hereafter. But my Lord Preſident, not willing to ſcatter his Forces upon trifles, hath given order to demo<g ref="char:EOLhyphen"/>liſh it; but till then, we keep a Ward in it of 32 Musket<g ref="char:EOLhyphen"/>tiers. About the ſame time the Lord Preſident marched out of <hi>Cork,</hi> and took in two very ſtrong Caſtles, <hi>Bully,</hi> and <hi>Bullycollick,</hi> without the loſſe of a man of his.</p>
+            <p>This day came in the <hi>Heart</hi> Pynnace from the River of <hi>Lymrick,</hi> where ſhe left Sir <hi>Henry Stradling,</hi> and Captain <hi>Cole</hi> of <hi>Briſtoll</hi> employed to relieve the Caſtle that want<g ref="char:EOLhyphen"/>eth Powder and Ammunition; they did what could be done, but not what they deſired; It was ſo blockt up, and the river on each ſide ſo placed with Muskettiers, that they could not come within a mile of the Key; neither durſt they ſtay long in the place where they were, without en<g ref="char:EOLhyphen"/>dangering their Ships, and therefore a neceſſity of having, or ſending of Land-Forces to joyn with the Ships, and to cleer the upper part of the River: Whereupon, my Lord Preſident is reſolved to march thither with about 4000 Foot, and 600 Horſe, and carries with him 3 or 4 Pieces Field-Ordnance. We are now at the firſt of <hi>Iune.</hi> Ye<g ref="char:EOLhyphen"/>ſterday our Governour Lievtenant Colonell <hi>Brocket,</hi> by my Lords Command, marched towards the river with his own Company, and Lievtenant <hi>Byrne</hi> commanding the Foot Company of my Lord of <hi>Baltinglas:</hi> I believe they are to be joyned with the Forces that march to <hi>Limricke.</hi> we have ſtill in Garriſon 300 Souldiers.</p>
+            <p>
+               <pb n="9" facs="tcp:156768:5"/>
+This inſtant have received certain adviſe from <hi>Bandon<g ref="char:EOLhyphen"/>bridge,</hi> That yeſterday very early, they marched forth from thence four Companies towards the Caſtles of <hi>Cole<g ref="char:EOLhyphen"/>maine</hi> and <hi>Kilbrittaine,</hi> one of the Companies commanded by Captain <hi>Hooper</hi> (to whoſe lot it fell,) went directly to <hi>Colemaine,</hi> and approaching ſomething neer, eſpied aboun<g ref="char:EOLhyphen"/>dance of people upon the top of it; but preſently vani<g ref="char:EOLhyphen"/>ſhed away, left the Caſtle, and betook themſelves to Boats, which lay neer them for the purpoſe, they rowed up the River of <hi>Tymeleague,</hi> and it is ſuppoſed they ſheltred themſelves for the preſent in <hi>Tymeleague</hi> Caſtle. Captain <hi>Hooper</hi> left in <hi>Colemaine</hi> a ward of 18. Souldiers, and mar<g ref="char:EOLhyphen"/>ched to <hi>Kilbrittaine,</hi> where my Lord <hi>Kinalmeakie</hi> proffered quarter, but they refuſed it, only deſired to have two dayes reſpect, untill they could ſend to <hi>Mac Cartie,</hi> which was denyed them; whereupon our forces began to play their Piece of Ordnance upon the Caſtle, and a Sow car<g ref="char:EOLhyphen"/>rying towards the Walls, to ſet the Myners a work, they began to make ſignes, and cryed for quarter, and it was granted and agreed upon, That they ſhould march away with their cloaths, two horſes, and two or three ſwords, for ſome of the chiefeſt of them: The Rebels at the firſt were very buſie with their ſmall ſhot, but did none of ours any harm; a ward of 32. Muskettiers were left in the ſaid Caſtle, untill the Proviſions and booty be brought away, which they valew in both Caſtles to be worth 1000<hi>
+                  <abbr>l.</abbr> ſter.</hi> at leaſt.</p>
+            <p>My Lord of <hi>Muskry,</hi> Generall <hi>Barrie,</hi> with all the chie<g ref="char:EOLhyphen"/>feſt of their Aſſociates, and the greateſt part of their forces of this Province are gone to beſiege the Caſtle of <hi>Lymrick,</hi> which if they ſhould take, it would in my opini<g ref="char:EOLhyphen"/>on, be in great advantage unto them; my reaſon is, That
+<pb n="10" facs="tcp:156768:6"/>our Ships are, and will be Maſters of the River, ſo that no relief can go to them by Sea; neither will they be able to run away by water; and my Lord coming round about by Land with his forces, will take them all in a Net, which could never be ſo well done by any other means. So that now if the forces intended for theſe parts, come away timely, that we may reap the Harveſt, and bring the Cattle from <hi>Mnskry,</hi> by Gods affiſtance we ſhall make ſhort work with them, which will better, then to make another yeers work of it.</p>
+            <p>The great deſire I have to make you acquainted with all paſſages, taketh away the ſcruple of being tedious, I will now adde a line or two of buſineſſe, in anſwer of yours, 16. <hi>March,</hi> 19. <hi>April,</hi> 3. and 16. <hi>May,</hi> which came to hand all in one day, the 22. paſt, being very glad, my rude ſtile, yet true relation came ſo ſeaſonable to that ho<g ref="char:EOLhyphen"/>nourable Houſe; my requeſt unto you is, you will con<g ref="char:EOLhyphen"/>tinue your humble ſupplications in my behalf, for the giving of allowance for our Ship <hi>Charles,</hi> The Admirall hath not yet given us a Certificate, but at firſt made ſome ſcruple of doing it. becauſe he had news, ſome had writ<g ref="char:EOLhyphen"/>ten ſcandouſly of him into <hi>England,</hi> and had a jealouſie of me, but now is of another opinion, and will grant what we juſtly deſire; but it will be theſe three or four dayes before we ſhall get it done, if he ſhall deny it, we will ſend a Certificate of 200. Engliſh Inhabitants of the Town, That the ſaid Ship was a Seller for the beſt of the Goods, and a ſanctuary for their perſons: but of this more at large, when I have ſeen how farre I ſhall prevail with him. Touching that Noble promiſe of thoſe wor<g ref="char:EOLhyphen"/>thy Members, to be a means to procure me the Farm of <hi>Polelong,</hi> it would be a favour, and a perpetuall obligation
+<pb n="11" facs="tcp:156768:6"/>to me and mine, to remember them, and the reſt of that honourable Houſe in our prayers, which is our only, and beſt way to expreſſe our thankfulneſſe: But I beſeech you with as much modeſty as you may, put them ſome<g ref="char:EOLhyphen"/>times in minde thereof, Touching the Certificate for the debts owing me, I know not in what manner to draw it, or by whom it can be certified; I beleeve it would be held folly for me, being Soveraign, to certifie any thing under my hand and Town Seal, that concerns my ſelf, it is between 6 or 7000<hi>
+                  <abbr>l.</abbr> ſter.</hi> as I have formerly written, and the moſt part by ſpecialties.</p>
+            <p>I am glad Governour <hi>Brisket</hi> found ſo good a for<g ref="char:EOLhyphen"/>tune, if God ſend him home, I know he will pay me: the news is conſirmed by a Ship that came in yeſter<g ref="char:EOLhyphen"/>day.</p>
+            <p>A <hi>Holland</hi> man of warre, from whom the ſaid <hi>Brisket</hi> had his Commiſſion, came from Saint <hi>Chriſtophers,</hi> about eight weeks ſince, upon here is one Secre<g ref="char:EOLhyphen"/>tary <hi>Robinſon,</hi> and ſome other Engliſh paſſengers, who report that Saint <hi>Chriſtophers,</hi> and all the reſt of the <hi>Carribia</hi> Ilands, are in Arms, complaining of their Governours, and manner of government. I am glad, the <hi>London</hi> Mer<g ref="char:EOLhyphen"/>chants have undertaken ſo good a work as the ſetting forth of 15. ſail, and 1500. Land-men, for a running Ar<g ref="char:EOLhyphen"/>my, I wiſh they were come, and ſhall pray for their good ſucceſſe, if what I wrote were any means to induce them thereunto, I ſhall accompt my ſelf the more happy to<g ref="char:EOLhyphen"/>wards God and Man.</p>
+            <p>Severall men that have written, and are come out of <hi>England,</hi> do report, that many baſe ſcandalous reports and ſpeeches hath been given of me <hi>England;</hi> eſpecially by <hi>Iohn Barker, Iohn Treglyne,</hi> and a lewd women <hi>Borly Long,</hi>
+               <pb n="12" facs="tcp:156768:7"/>late wife to one faithfull <hi>Biſhop,</hi> whom if ſhe had not gone away as ſhe did, I had cauſed her to be carted and whipped out of Town, one hearing ſuch report, I wrote incloſed to my Lord Preſident, who preſently ſent me a Certificate which goeth heer, which I pray, if it be need<g ref="char:EOLhyphen"/>full, ſhew it to the Lords Commiſſioners for Iriſh affairs; and if it muſt remain there, take out a Copy under the Clerk of the Parliament hand, and ſend it down to your Friends in <hi>Briſtoll,</hi> that theſe people may be enquired af<g ref="char:EOLhyphen"/>ter, and ſent back to be examined by my Lord Preſident, whereby, if they prove what they report, I may ſuffer according to my deſert; but if they wrong me, they way receive ſuch puniſhment, as my Lord ſhall think ſit to inflict upon them.</p>
+            <p>It is generally reported that His Majeſty hath an intent to come for this Kingdom, which to my poor underſtan<g ref="char:EOLhyphen"/>ding is moſt ſtrange and terrible, the Lord of his mercy direct his heart, and the hearts of that grave Councell; ſure I am, that all things will be for the beſt, to thoſe that love and fear God, in whom I remain,</p>
+            <closer>
+               <signed>Your loving Brother, <hi>Triſtram Whetcombe.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb n="13" facs="tcp:156768:7"/>
+            <head>The humble Petition to the Right Honourable the Lord Preſident. <hi>May</hi> the ſeventh, in <hi>Kinſale.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>YEſterday adviſed your Lordſhip by an expreſſe of the taking of the Caſtles of <hi>Carganas,</hi> and <hi>Polelouge,</hi> the Meſſenger not yet returned, and now Captain <hi>Aderly</hi> goeth to give your Lordſhip a full relation, <hi>Viva, voce.</hi>
+            </p>
+            <p>May it pleaſe your Lordſhip, that a Barque came from <hi>Briſtoll,</hi> brought ſeverall Letters to my ſelf, and ſome of this Town adviſing that divers malicious people, which lately ſtoal away from hence, and gone thither; eſpeci<g ref="char:EOLhyphen"/>ally one <hi>Iohn Treglyne,</hi> and a lewd woman, known by the name of <hi>Borly Long,</hi> a late pretended wife to faithfull <hi>Biſhop,</hi> now in <hi>Cork,</hi> whom your Lordſhip ordered to be ſent hither, and pillored for his miſdemeanors towards the Corporation, but never came hither, have divulged in all <hi>Briſtoll,</hi> and fully poſſeſſed the whole City, that I am a rebell, and more dangerous then any of thoſe openly declared themſelves, and that their eſcape, or going over, was chiefly to make it known to the Parliament.</p>
+            <p>My moſt humble ſuite unto your Lordſhip is in regard, they made not complaint to your Lordſhip, before they went away, nor had no leave to depart, being houſe-keepers in the Town, and ought to have ſtaid to help bear the charge that lyeth upon us.</p>
+            <p>
+               <pb n="14" facs="tcp:156768:8"/>
+And for as much, as I weekly, or dayly gave, when the paſſage was open, a due accompt to your Lordſhip of my actions, that you would be honourably pleaſed, to look upon your poor ſervant. By giving two or three lines, that I may ſend for <hi>England</hi> of my loyalty to His Majeſtie, and obedience to your Lordſhips commands, which I will ever continue, thereby to take away the pernitious ſcan<g ref="char:EOLhyphen"/>dall, and that they may with the reſt be ſent back to be examined by your Lordſhips appointment, That if any crime be by them, proved againſt me, I may ſuffer accor<g ref="char:EOLhyphen"/>ding to my deſerts, to the utmoſt rigour of the Law, or if it be maliciouſly done, as indeed it is, they may receive condign puniſhment as your Lordſhips grave wiſedome ſhall think fit, and your Petitioner ſhall ever pray, and remain,</p>
+            <closer>
+               <signed>Your Honours humble ſervant, <hi>Triſtram Whetcombe.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="certificate">
+            <pb n="15" facs="tcp:156768:8"/>
+            <head>By The Lord Preſident Of MUNSTER.</head>
+            <p>WHereas <hi>Triſtram Whetcombe</hi> Eſquire, hath been for this laſt yeer elected and choſen Soveraign of the Town of <hi>Kinſale</hi> (the ſaid Soveraign being both an Engliſhman, and a good Proteſtant, which ſort of men have not been accuſtomed to bear office in that Corporation;) And whereas divers ill affected perſons have divulged ſeverall ſcandalous and calumnious reports in prejudice of the loyalty, and the fidelity of the ſaid Soveraign.</p>
+            <p>Theſe are to certifie and teſtifie unto all perſons, whom it may con<g ref="char:EOLhyphen"/>cern, or to whom theſe preſents ſhall come, That the ſaid <hi>Triſtram Whetcombe,</hi> Soveraign of <hi>Kinſale</hi> aforeſaid, hath in all his Actions and Demeanors, touching the Magiſtracy of that place, carryed himſelf with ſingular Iudgement, Diſcretion, and Mode<g ref="char:EOLhyphen"/>ration towards the Inhabitants of the ſaid Town; the affairs where<g ref="char:EOLhyphen"/>of he hath mannaged with good advantage and ſecurity to the place in theſe times of danger. And hath not only expreſſed ſingular Charity and Chriſtian affection towards his Countrymen, by relie<g ref="char:EOLhyphen"/>ving
+<pb n="16" facs="tcp:156768:9"/>and ſupporting very many poor and pillaged Proteſtant Engliſh. But hath alſo manifeſted his Zeal to the publike Cauſe, and His Majeſties ſervice, by expending a great part of his Eſtate and livelyhood, in means and materialls, tending to the ſafety and ſe<g ref="char:EOLhyphen"/>curity of the place committed to his charge, and His Majeſties good people therein. Of his proceedings, wherein he hath from time to time given me a good and ſatisfactory accompt of his integrity, wherein I could not at his inſtance, refuſe to give him this teſtimony. Whereunto I have ſubſcribed my hand and Seal at <hi>Cork,</hi> the <hi>10.</hi> of <hi>May. 1642.</hi>
+            </p>
+            <closer>
+               <signed>William Saint-Legere.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
